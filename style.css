@@ -1,0 +1,89 @@
+.main {
+  width: 1000px;
+  margin: auto;
+  position: relative;
+}
+.main img.scheme {
+  width: 100%;
+}
+.block {
+  position: absolute;
+  z-index: 2;
+}
+.block .form {
+  display: none;
+  width: 150px;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background: #fff;
+  margin-left: -65px;
+  margin-top: 5px;
+}
+.block .form input {
+  width: 100%;
+  outline: none;
+}
+.block .form input.error {
+  border: 1px solid red;
+  color: red;
+}
+.block .form input {
+  margin-bottom: 5px;
+}
+.block.active img {
+  filter: brightness(1.2);
+}
+.block.active .form {
+  display: block;
+}
+.form-check {
+  font-size: 20px;
+}
+.block.pc1 {
+  top: 25px;
+  left: 208px;
+}
+.block.pc2 {
+  top: 252px;
+  left: 15px;
+}
+.block.pc3 {
+  top: 260px;
+  left: 935px;
+}
+.block.lt1 {
+  top: 29px;
+  left: 652px;
+}
+.block.sr1 {
+  top: 133px;
+  left: 909px;
+}
+.block.r0 {
+  top: 264px;
+  left: 643px;
+}
+.block.r1 {
+  top: 258px;
+  left: 245px;
+}
+.block.r2 {
+  top: 163px;
+  left: 445px;
+}
+.block.sw0 {
+  top: 257px;
+  left: 121px;
+}
+.block.sw1 {
+  top: 33px;
+  left: 439px;
+}
+.block.sw2 {
+  top: 267px;
+  left: 787px;
+}
+#typeProtocol {
+  display: none;
+}
