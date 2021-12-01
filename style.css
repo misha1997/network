@@ -40,49 +40,17 @@
 .form-check {
   font-size: 20px;
 }
-.block.pc1 {
-  top: 25px;
-  left: 208px;
-}
-.block.pc2 {
-  top: 252px;
-  left: 15px;
-}
-.block.pc3 {
-  top: 260px;
-  left: 935px;
-}
-.block.lt1 {
-  top: 29px;
-  left: 652px;
-}
-.block.sr1 {
-  top: 133px;
-  left: 909px;
-}
 .block.r0 {
-  top: 264px;
-  left: 643px;
+  top: 293px;
+  left: 611px;
 }
 .block.r1 {
-  top: 258px;
-  left: 245px;
+  top: 294px;
+  left: 276px;
 }
 .block.r2 {
-  top: 163px;
-  left: 445px;
-}
-.block.sw0 {
-  top: 257px;
-  left: 121px;
-}
-.block.sw1 {
-  top: 33px;
-  left: 439px;
-}
-.block.sw2 {
-  top: 267px;
-  left: 787px;
+  top: 192px;
+  left: 440px;
 }
 #typeProtocol {
   display: none;
