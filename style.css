@@ -10,6 +10,9 @@
   position: absolute;
   z-index: 2;
 }
+.block img {
+  width: 64px;
+}
 .block .form {
   display: none;
   width: 150px;
@@ -41,15 +44,15 @@
   font-size: 20px;
 }
 .block.r0 {
-  top: 293px;
-  left: 611px;
+  top: 301px;
+  left: 615px;
 }
 .block.r1 {
-  top: 294px;
-  left: 276px;
+  top: 302px;
+  left: 269px;
 }
 .block.r2 {
-  top: 192px;
+  top: 196px;
   left: 440px;
 }
 #typeProtocol {
